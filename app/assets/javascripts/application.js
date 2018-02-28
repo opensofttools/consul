@@ -77,6 +77,7 @@
 //= require investment_report_alert
 //= require send_newsletter_alert
 //= require managers
+//= require send_admin_notification_alert
 
 var initialize_modules = function() {
   App.Comments.initialize();
@@ -121,6 +122,7 @@ var initialize_modules = function() {
   App.InvestmentReportAlert.initialize();
   App.SendNewsletterAlert.initialize();
   App.Managers.initialize();
+  App.SendAdminNotificationAlert.initialize();
 };
 
 $(function(){
