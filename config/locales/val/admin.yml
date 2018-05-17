@@ -134,12 +134,24 @@ val:
         administrator_filter_all: Tots els administradors
         valuator_filter_all: Tots els avaluadors
         tags_filter_all: Totes les etiquetes
+        sort_by:
+          title: Títol
+          supports: Avals
         filters:
           all: Totes
           without_admin: Sense administrador
+          without_valuator: Sense avaluador asignat
+          under_valuation: En avaluació
           valuation_finished: Avaluació finalitzada
+          feasible: Viable
           selected: Seleccionades
+          undecided: Sense decidir
+          unfeasible: Inviable
+          max_per_heading: Màx. avals per districte
           winners: Guanyadores
+        buttons:
+          search: Cercar
+          filter: Filtrar
         download_current_selection: "Baixar la selecció actual"
         no_budget_investments: "No hi ha projectes d'inversió."
         title: Propostes d'inversió
@@ -160,6 +172,7 @@ val:
         table_geozone: "Ámbit d'actuació"
         table_feasibility: "Viabilitat"
         table_valuation_finished: "Av. Fin."
+        table_selection: "Selecció"
         table_incompatible: "Incompatible"
       show:
         assigned_admin: Administrador asignat
@@ -170,6 +183,7 @@ val:
         edit_classification: Edita classificació
         by: Autor
         sent: Data
+        group: Grup
         heading: Partida
         dossier: Informe
         edit_dossier: Editar informe
