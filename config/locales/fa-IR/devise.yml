@@ -1,0 +1,17 @@
+fa:
+  devise:
+    password_expired:
+      expire_password: "رمز عبور منقضی شده"
+      change_required: "رمز عبور شما منقضی شده است"
+      change_password: "تغییر کلمه عبور"
+      new_password: "رمز عبور جدید"
+      updated: "کلمه عبور با موفقیت به روز رسانی شد."
+    confirmations:
+      confirmed: "حساب شما تایید شده است."
+      send_instructions: "دقایقی بعد شما ایمیلی حاوی دستورالعمل در مورد چگونگی تنظیم مجدد رمز عبور خود را دریافت خواهید کرد."
+      send_paranoid_instructions: "اگر آدرس ایمیل شما در پایگاه داده ما موجود باشد، در چند دقیقه شما ایمیلی حاوی دستورالعمل در مورد چگونگی رست کردن رمز عبور خود دریافت خواهید کرد."
+    failure:
+      locked: "حساب شما قفل شده است."
+    mailer:
+      confirmation_instructions:
+        subject: "تایید دستورالعمل"
