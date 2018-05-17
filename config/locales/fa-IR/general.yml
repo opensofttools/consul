@@ -1,0 +1,5 @@
+fa:
+  account:
+    show:
+      user_permission_title: "مشارکت\n"
+      username_label: نام کاربری
