@@ -1,0 +1,17 @@
+tr:
+  admin:
+    header:
+      title: Yönetim
+    actions:
+      actions: Aksiyon
+      confirm: Emin misiniz?
+      confirm_hide: Onaylamak
+      edit: Düzenleme
+    banners:
+      banner:
+        style: Stil
+        image: Fotoğraf
+    budgets:
+      index:
+        filters:
+          open: Açık
