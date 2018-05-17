@@ -1,0 +1,45 @@
+fa:
+  mailers:
+    no_reply: "این پیام از آدرس ایمیلي فرستاده شده است که پاسخ ها را قبول نمي كند."
+    comment:
+      hi: سلام
+      title: نظر جدید
+    config:
+      manage_email_subscriptions: برای جلوگیری از دریافت ایمیل ها، تنظیمات را تغيير دهيد.
+    email_verification:
+      click_here_to_verify: این لینک
+      subject: تایید ایمیل
+      thanks: با تشكر فراوان.
+      title: با استفاده از لینک زیر، حساب خود را تاييد كنيد.
+    reply:
+      hi: سلام
+      subject: کسی به نظر شما پاسخ داده است.
+      title: ' پاسخ جديد به نظر شما'
+    unfeasible_spending_proposal:
+      hi: "کاربر گرامی"
+      new_href: "پروژه جدید سرمایه گذاری"
+      sincerely: "با تشکر."
+    proposal_notification_digest:
+      unsubscribe_account: حساب من
+    direct_message_for_receiver:
+      subject: "شما يك پيغام خصوصي جديد دريافت كرده ايد."
+      unsubscribe_account: حساب من
+    direct_message_for_sender:
+      subject: "شما يك پيغام خصوصي جديد دريافت كرده ايد."
+    user_invite:
+      thanks: "با تشكر فراوان."
+      title: "خوش آمدید به %{org}\n"
+      button: ثبت نام کامل شد.
+      subject: "دعوت به %{org_name}"
+    budget_investment_created:
+      subject: "با تشکر از شما برای ایجاد یک سرمایه گذاری!"
+      title: "با تشکر از شما برای ایجاد یک سرمایه گذاری!"
+      intro_html: "سلام <strong>%{author}</strong>"
+      follow_link: "بودجه مشارکتی"
+      sincerely: "با تشکر."
+    budget_investment_unfeasible:
+      hi: "کاربر گرامی"
+      new_href: "پروژه جدید سرمایه گذاری"
+      sincerely: "با تشکر."
+    budget_investment_unselected:
+      sincerely: "با تشكر."
