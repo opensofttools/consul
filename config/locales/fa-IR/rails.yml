@@ -1,0 +1,75 @@
+fa:
+  date:
+    abbr_day_names:
+      - یک شنبه
+      - دوشنبه
+      - سه شنبه
+      - چهارشنبه
+      - پنج شنبه
+      - جمعه
+      - شنبه
+    abbr_month_names:
+      - 
+      - ژانویه
+      - فوریه
+      - مارس
+      - آوریل
+      - می
+      - ژوئن
+      - جولای
+      - آگوست
+      - سپتامبر
+      - اکتبر
+      - نوامبر
+      - دسامبر
+    day_names:
+      - یکشنبه
+      - دوشنبه
+      - سه شنبه
+      - چهار شنبه
+      - پنج شنبه
+      - جمعه
+      - شنبه
+    month_names:
+      - 
+      - ژانویه
+      - فوریه
+      - مارس
+      - آوریل
+      - می
+      - ژوئن
+      - جولای
+      - آگوست
+      - سپتامبر
+      - اکتبر
+      - نوامبر
+      - دسامبر
+    order:
+      - ': سال'
+      - ': ماه'
+      - ': روز'
+  datetime:
+    distance_in_words:
+      half_a_minute: نیم دقیقه
+    prompts:
+      day: روز
+      hour: ساعت
+      minute: دقیقه
+      month: ماه
+      second: ثانیه
+      year: سال
+  errors:
+    messages:
+      confirmation: '%{attribute} سازگار نیست'
+      empty: نباید خالی باشد
+  number:
+    human:
+      decimal_units:
+        units:
+          billion: میلیارد
+          million: میلیون
+          thousand: هزار
+          trillion: تریلیون
+      format:
+        significant: true
+        strip_insignificant_zeros: true
