@@ -1,0 +1,8 @@
+fa:
+  settings:
+    twitter_hashtag: "هشتگرد توییتر"
+    feature:
+      proposals: طرح های پیشنهادی
+      debates: مباحثه
+      polls: نظر سنجی ها
+    min_age_to_participate: حداقل سن مورد نیاز برای شرکت 
