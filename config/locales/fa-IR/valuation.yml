@@ -1,0 +1,27 @@
+fa:
+  valuation:
+    header:
+      title: ارزیابی
+    menu:
+      title: ارزیابی
+      budgets: بودجه مشارکتی
+      spending_proposals: هزینه های طرح
+    budgets:
+      index:
+        title: بودجه مشارکتی
+        filters:
+          current: بازکردن
+          finished: به پایان رسید
+        table_name: نام
+        table_phase: فاز
+        table_assigned_investments_valuation_open: پروژه های سرمایه گذاری اختصاص داده با ارزیابی باز
+        table_actions: اقدامات
+        evaluate: ارزیابی
+    budget_investments:
+      index:
+        filters:
+          valuating: تحت ارزیابی
+          valuation_finished: ' اتمام ارزیابی '
+        assigned_to: "اختصاص یافته به %{valuator}"
+      show:
+        by: ارسال شده توسط
