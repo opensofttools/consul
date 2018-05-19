@@ -45,6 +45,7 @@ fr:
       community: Communauté sur les propositions et les investissements
       map: Localisation des propositions et des projets d'investissement
       allow_images: Permettre d'importer et d'afficher des images
+      allow_attached_documents: Permettre le téléchargement et le visionnage de pièces jointes
     map_latitude: Latitude
     map_longitude: Longitude
     map_zoom: Zoom
