@@ -103,7 +103,7 @@ fr:
           sign_up: "enregistrer"
           by_feasibility: Par faisabilité
           feasible: Projets faisables
-          unfeasible: Projets infaisables
+          unfeasible: Projets irréalisables
         orders:
           random: aléatoire
           confidence_score: les mieux notés
@@ -112,11 +112,11 @@ fr:
         author_deleted: Utilisateur supprimé
         price_explanation: Explication du coût
         unfeasibility_explanation: Explication de l'infaisabilité
-        code_html: 'Code de la proposition de dépense: <strong>%{code}</strong>'
+        code_html: 'Code du projet d''investissement: <strong>%{code}</strong>'
         location_html: 'Lieu: <strong>%{location}</strong>'
-        organization_name_html: 'Organisation: <strong>%{name}</strong>'
+        organization_name_html: 'Proposé au nom de : <strong>%{name}</strong>'
         share: Partager
-        title: Proposition d'investissement
+        title: Projet d'investissement
         supports: Soutiens
         votes: Votes
         price: Coût
@@ -125,13 +125,13 @@ fr:
         no_milestones: Aucun jalon défini
         milestone_publication_date: "Publié le %{publication_date}"
         author: Auteur
-        project_unfeasible_html: 'Cet investissement <strong>a été marqué comme irréalisable</strong> et n''ira pas en phase de vote.'
+        project_unfeasible_html: 'Ce projet d''investissement <strong>a été marqué comme irréalisable</strong> et n''ira pas en phase de vote.'
         project_not_selected_html: 'Ce projet d''investissement <strong>n’a pas été sélectionné</strong> pour la phase de vote.'
       wrong_price_format: Nombres entiers uniquement
       investment:
         add: Voter
-        already_added: Vous avez déjà ajouté cette proposition d'investissement.
-        already_supported: Vous avez déjà soutenu cette proposition. Partagez-la !
+        already_added: Vous avez déjà ajouté ce projet d'investissement
+        already_supported: Vous avez déjà soutenu ce projet d'investissement. Partagez-le !
         support_title: Soutenir cette proposition
         confirm_group:
           one: "Vous pouvez seulement soutenir les propositions d'%{count} quartier. Si vous continuez, vous ne pourrez pas changer ce choix. Êtes-vous sûr(e) ?"
@@ -149,11 +149,11 @@ fr:
         price: "Cette rubrique dispose d’un budget de"
     progress_bar:
       assigned: "Vous avez affecté : "
-      available: "Disponible : "
+      available: "Budget disponible : "
     show:
       group: Groupe
       phase: Phase actuelle
-      unfeasible_title: Propositions infaisables
+      unfeasible_title: Projets d'investissement irréalisables
       unfeasible: Voir les propositions infaisables
       unselected_title: Propositions non-sélectionnées pour la phase de vote
       unselected: Voir les propositions non-sélectionnées pour la phase de vote
