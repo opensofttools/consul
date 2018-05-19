@@ -1,10 +1,24 @@
 fr:
   management:
     account:
+      menu:
+        reset_password_manually: Réinitialiser le mot de passe manuellement
       alert:
         unverified_user: Vous ne pouvez éditer que les comptes des utilisateurs vérifiés
       show:
         title: Compte utilisateur
+      edit:
+        title: 'Modifier le compte d’utilisateur : réinitialiser le mot de passe'
+        back: Retour
+        password:
+          password: Mot de passe
+          send_email: Envoyer l’e-mail de réinitialisation du mot de passe
+          reset_email_send: Email envoyé correctement.
+          reseted: Mot de passe réinitialisé avec succès
+          random: Générer un mot de passe aléatoire
+          save: Sauvegarder
+          print: Imprimer le mot de passe
+          print_help: Vous serez en mesure d’imprimer le mot de passe lorsqu’il sera enregistré.
     account_info:
       change_user: Changer l'utilisateur
       document_number_label: 'Numéro de document :'
