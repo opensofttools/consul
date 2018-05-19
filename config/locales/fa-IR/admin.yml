@@ -107,6 +107,8 @@ fa:
         save_heading: ذخیره سرفصل
         table_amount: مقدار
         table_population: جمعیت
+      winners:
+        calculate: محاسبه سرمایه گذاری های برنده
     budget_phases:
       edit:
         start_date: "تاریخ شروع\n"
@@ -126,18 +128,31 @@ fa:
           placeholder: مرتب سازی بر اساس
           id: شناسه
           title: عنوان
+          supports: پشتیبانی ها
         filters:
           all: تمام
           without_admin: بدون تعیین مدیر
+          under_valuation: تحت ارزیابی
+          valuation_finished: ' اتمام ارزیابی '
+          feasible: امکان پذیر
           selected: انتخاب شده
+          undecided: بلاتکلیف
           winners: برندگان
         buttons:
           search: جستجو
           filter: فیلتر
+        assigned_admin: سرپرست تعیین شده
+        feasibility:
+          undecided: "بلاتکلیف"
         selected: "انتخاب شده"
         table_id: "شناسه"
         table_title: "عنوان"
+        table_supports: "پشتیبانی ها"
+        table_admin: "مدیران"
+        table_selection: "انتخاب شده"
+        table_incompatible: "ناسازگار"
       show:
+        assigned_admin: سرپرست تعیین شده
         classification: طبقه بندی
         info: "%{budget_name} - گروه: %{group_name} - سرمایه گذاری پروژه %{id}"
         edit: ویرایش
@@ -181,6 +196,7 @@ fa:
         submit_button: به روز رسانی
         tags: برچسب ها
         undefined: تعریف نشده
+        user_groups: "گروه ها"
     milestones:
       index:
         table_id: "شناسه"
@@ -192,9 +208,13 @@ fa:
         image: "تصویر"
         show_image: "نمایش تصویر"
         documents: "اسناد"
+      form:
+        add_language: اضافه کردن زبان
+        remove_language: حذف زبان
       new:
         creating: ایجاد نقطه عطف جدید
         date: تاریخ
+        description: شرح
       edit:
         title: ویرایش نقطه عطف
       create:
@@ -213,6 +233,11 @@ fa:
         hidden_debate: بحث های پنهان
         hidden_proposal: پیشنهاد های پنهان
         title: نظرات مخفی
+        no_hidden_comments: نظر پنهان وجود ندارد.
+    dashboard:
+      index:
+        back: بازگشت به %{org}
+        description: خوش آمدید به پنل مدیریت %{org}.
     debates:
       index:
         filter: فیلتر
@@ -221,6 +246,7 @@ fa:
           with_confirmed_hide: تایید
           without_confirmed_hide: انتظار
         title: بحث های پنهان
+        no_hidden_debates: بحث های پنهان وجود ندارد.
     hidden_users:
       index:
         filter: فیلتر
@@ -232,9 +258,19 @@ fa:
         user: کاربر
       show:
         email: 'پست الکترونیکی'
+        registered_at: 'ثبت در:'
+        title: فعالیت های کاربر (%{user})
     legislation:
       processes:
+        edit:
+          back: برگشت
+          submit_button: ذخیره تغییرات
+        errors:
+          form:
+            error: خطا
         form:
+          enabled: فعال
+          process: "روند\n"
           start: شروع
           end: پایان
         index:
