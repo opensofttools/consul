@@ -71,6 +71,7 @@ fr:
         map_location_instructions: "Positionnez le marqueur à l'emplacement correspondant sur la carte."
         map_remove_marker: "Supprimer le marqueur"
         location: "Information supplémentaires sur l'emplacement"
+        map_skip_checkbox: "Cet investissement n'a pas d'emplacement concret, à ma connaissance."
       index:
         title: Budget participatif
         unfeasible: Propositions d'investissement infaisables
@@ -124,6 +125,8 @@ fr:
         no_milestones: Aucun jalon défini
         milestone_publication_date: "Publié le %{publication_date}"
         author: Auteur
+        project_unfeasible_html: 'Cet investissement <strong>a été marqué comme irréalisable</strong> et n''ira pas en phase de vote.'
+        project_not_selected_html: 'Ce projet d''investissement <strong>n’a pas été sélectionné</strong> pour la phase de vote.'
       wrong_price_format: Nombres entiers uniquement
       investment:
         add: Voter
