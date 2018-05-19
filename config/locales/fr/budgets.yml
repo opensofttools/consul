@@ -8,15 +8,15 @@ fr:
         no_balloted_group_yet: "Vous n'avez pas encore voté dans ce groupe, allez voter !"
         remove: Supprimer le vote
         voted_html:
-          one: "Vous avez voté pour <span>une</span> proposition."
-          other: "Vous avez voté pour <span>%{count}</span> propositions."
+          one: "Vous avez voté <span>un</span> projet d'investissement."
+          other: "Vous avez voté <span>%{count}</span> projets d'investissement."
         voted_info_html: "Vous pouvez modifier votre vote à tout moment jusqu'à la fin de cette phase.<br> Vous n'avez pas besoin de dépenser tout le budget disponible."
-        zero: Vous n'avez voté pour aucune des propositions d'investissement.
+        zero: Vous n'avez voté aucun projet d'investissement.
       reasons_for_not_balloting:
         not_logged_in: Vous devez %{signin} ou %{signup} pour continuer.
-        not_verified: Seuls les utilisateurs vérifiés peuvent voter pour les propositions, %{verify_account}.
+        not_verified: Seuls les utilisateurs vérifiés peuvent voter les projets d'investissement, %{verify_account}.
         organization: Les organisations ne sont pas autorisées à voter.
-        not_selected: Les propositions d'investissement non-sélectionnées ne peuvent être soutenues.
+        not_selected: Les projets d'investissement non-sélectionnés ne peuvent être soutenus
         not_enough_money_html: "Vous avez déjà utilisé l'ensemble du budget disponible. <br><small>N’oubliez pas, vous pouvez %{change_ballot} à tout moment</small>"
         no_ballots_allowed: La phase de sélection est terminée.
         different_heading_assigned_html: "Vous avez déjà voté pour une autre section : %{heading_link}"
@@ -133,6 +133,9 @@ fr:
         already_added: Vous avez déjà ajouté cette proposition d'investissement.
         already_supported: Vous avez déjà soutenu cette proposition. Partagez-la !
         support_title: Soutenir cette proposition
+        confirm_group:
+          one: "Vous pouvez seulement soutenir les propositions d'%{count} quartier. Si vous continuez, vous ne pourrez pas changer ce choix. Êtes-vous sûr(e) ?"
+          other: "Vous pouvez seulement soutenir les propositions de %{count} quartiers. Si vous continuez, vous ne pourrez pas changer ce choix. Êtes-vous sûr(e) ?"
         supports:
           zero: Pas de soutiens
           one: 1 soutien
