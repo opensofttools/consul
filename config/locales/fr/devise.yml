@@ -55,11 +55,11 @@ fr:
   errors:
     messages:
       already_confirmed: "Votre compte a déjà été vérifié; veuillez essayer de vous connecter."
-      confirmation_period_expired: "Votre compte doit être vérifié en %{period}; veuillez refaire une demande."
+      confirmation_period_expired: "Votre compte doit être vérifié d'ici %{period}; veuillez refaire une demande."
       expired: "a expiré; veuillez refaire une demande."
       not_found: "non trouvé."
       not_locked: "n'était pas bloqué."
       not_saved:
         one: "1 erreur a empêché cette %{resource} d'être sauvegardée :"
-        other: "%{count} erreurs ont empêchés cette %{resource} d'être sauvegardée :"
+        other: "%{count} erreurs ont empêché cette %{resource} d'être sauvegardée. SVP vérifiez les champs indiqués pour savoir comment les corriger :"
       equal_to_current_password: "doit être différent du mot de passe actuel."
