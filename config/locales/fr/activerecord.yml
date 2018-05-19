@@ -128,7 +128,7 @@ fr:
         publication_date: "Date de publication"
       budget/heading:
         name: "Nom de la rubrique"
-        price: "Prix"
+        price: "Coût"
         population: "Population"
       comment:
         body: "Commentaire"
