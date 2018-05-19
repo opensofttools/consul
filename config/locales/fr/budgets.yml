@@ -37,17 +37,17 @@ fr:
       valuating: Évaluation des projets
       publishing_prices: Publication du coût des projets
       balloting: Vote final
-      reviewing_ballots: Clôture des votes
-      finished: Résultats
+      reviewing_ballots: Examen des votes
+      finished: Budget terminé
     index:
       title: Budgets participatifs
       empty_budgets: Il n'y a pas de budgets.
       section_header:
-        icon_alt: Icon des budgets participatifs
+        icon_alt: Icône des budgets participatifs
         title: Budgets participatifs
         help: Aide sur les budgets participatifs
         all_phases: Voir toutes les phases
-      all_phases: Phases de l’investissement
+      all_phases: Phases de l’investissement budgétaire
       map: Propositions d'investissement localisés
       investment_proyects: Liste des projets d'investissement
       unfeasible_investment_proyects: Liste des projets d'investissement irréalisables
