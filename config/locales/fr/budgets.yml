@@ -154,20 +154,20 @@ fr:
       group: Groupe
       phase: Phase actuelle
       unfeasible_title: Projets d'investissement irréalisables
-      unfeasible: Voir les propositions infaisables
-      unselected_title: Propositions non-sélectionnées pour la phase de vote
-      unselected: Voir les propositions non-sélectionnées pour la phase de vote
+      unfeasible: Voir les projets d'investissement irréalisables
+      unselected_title: Projets d'investissement non-sélectionnés pour la phase de vote
+      unselected: Voir les projets d'investissement non-sélectionnés pour la phase de vote
       see_results: Voir les résultats
     results:
       link: Résultats
       page_title: "%{budget} - Résultats"
       heading: "Résultats du budget participatif"
-      heading_selection_title: "Par zone"
+      heading_selection_title: "Par quartier"
       spending_proposal: Titre de la proposition
       ballot_lines_count: Nombre de fois sélectionné
       hide_discarded_link: Cacher les résultats rejetés
       show_all_link: Tout afficher
-      price: Prix
+      price: Coût
       amount_available: Budget disponible
       accepted: "Proposition de dépense acceptée : "
       discarded: "Proposition de dépense rejetée : "
@@ -177,6 +177,6 @@ fr:
       not_selected_investment_proyects: Liste des projets d'investissement non sélectionnés pour le vote
     phases:
       errors:
-        dates_range_invalid: "La date de début cannot be égale ou postérieure à la date de fin"
+        dates_range_invalid: "La date de début ne peut pas être égale ou postérieure à la date de fin"
         prev_phase_dates_invalid: "La date de début doit être postérieure à la date de début de la phase précédente (%{phase_name})"
         next_phase_dates_invalid: "La date de fin doit être antérieure à la date de fin de la phase suivante (%{phase_name})"
