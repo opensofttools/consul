@@ -65,8 +65,8 @@ fr:
       form:
         tag_category_label: "Catégories"
         tags_instructions: "Marquez cette proposition. Vous pouvez choisir parmi les catégories proposées ou en ajouter"
-        tags_label: Sujets
-        tags_placeholder: "Saisissez les étiquettes que vous souhaitez utiliser, séparées par des virgules (',')"
+        tags_label: Tags
+        tags_placeholder: "Saisissez les tags que vous souhaitez utiliser, séparés par des virgules (',')"
         map_location: "Emplacement sur la carte"
         map_location_instructions: "Positionnez le marqueur à l'emplacement correspondant sur la carte."
         map_remove_marker: "Supprimer le marqueur"
@@ -74,8 +74,8 @@ fr:
         map_skip_checkbox: "Cet investissement n'a pas d'emplacement concret, à ma connaissance."
       index:
         title: Budget participatif
-        unfeasible: Propositions d'investissement infaisables
-        unfeasible_text: "Les propositions doivent satisfaire un certain nombre de critères (être légale, concrète, relever des compétences de la Ville, ne pas dépasser le plafond des budgets, %{definitions}) pour être déclarer viable et atteindre le stade final des votes. Toutes les propositions qui ne respectent pas ces critères sont identifiées comme infaisables et publiées dans la liste suivante, accompagnées de leur rapport d'infaisabilité."
+        unfeasible: Projets d'investissement irréalisables
+        unfeasible_text: "Les projets d'investissement doivent satisfaire un certain nombre de critères (être légaux et concrets, relever des compétences de la commune, ne pas dépasser le plafond des budgets, %{definitions}) pour être déclarés viables et atteindre le stade final des votes. Tous les projets qui ne respectent pas ces critères sont identifiés comme irréalisables et publiés dans la liste suivante, accompagnés de leur rapport d'irréalisabilité."
         by_heading: "Portée des propositions d'investissement: %{heading}"
         search_form:
           button: Rechercher
