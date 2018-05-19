@@ -16,6 +16,7 @@ fr:
         budget_investment: "Budget d'investissement créé avec succès."
         signature_sheet: "Feuille de signature créée avec succès"
         topic: "Sujet créé avec succès."
+        valuator_group: "Groupe d’évaluation créé avec succès"
       save_changes:
         notice: Modifications sauvegardées
       update:
@@ -27,6 +28,7 @@ fr:
         spending_proposal: "Proposition de dépense mise-à-jour avec succès."
         budget_investment: "Budget d'investissement mis-à-jour avec succès."
         topic: "Sujet mis à jour avec succès."
+        valuator_group: "Groupe d’évaluation créé avec succès"
       destroy:
         spending_proposal: "Proposition de dépense supprimée avec succès."
         budget_investment: "Budget d'investissement supprimé avec succès."
