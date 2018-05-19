@@ -24,8 +24,8 @@ fr:
     groups:
       show:
         title: Sélectionner une option
-        unfeasible_title: Investissements infaisables
-        unfeasible: Voir les investissements infaisables
+        unfeasible_title: Investissements irréalisables
+        unfeasible: Voir les investissements irréalisables
         unselected_title: Investissements non-sélectionnés pour la phase de vote
         unselected: Voir les investissements non-sélectionnés pour la phase de vote
     phase:
