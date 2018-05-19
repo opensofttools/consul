@@ -41,6 +41,7 @@ fr:
       finished: Résultats
     index:
       title: Budgets participatifs
+      empty_budgets: Il n'y a pas de budgets.
       section_header:
         icon_alt: Icon des budgets participatifs
         title: Budgets participatifs
