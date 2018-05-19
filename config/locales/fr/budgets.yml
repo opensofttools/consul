@@ -76,10 +76,10 @@ fr:
         title: Budget participatif
         unfeasible: Projets d'investissement irréalisables
         unfeasible_text: "Les projets d'investissement doivent satisfaire un certain nombre de critères (être légaux et concrets, relever des compétences de la commune, ne pas dépasser le plafond des budgets, %{definitions}) pour être déclarés viables et atteindre le stade final des votes. Tous les projets qui ne respectent pas ces critères sont identifiés comme irréalisables et publiés dans la liste suivante, accompagnés de leur rapport d'irréalisabilité."
-        by_heading: "Portée des propositions d'investissement: %{heading}"
+        by_heading: "Portée des projets d'investissement : %{heading}"
         search_form:
           button: Rechercher
-          placeholder: Rechercher des propositions d'investissement...
+          placeholder: Rechercher des projets d'investissement...
           title: Recherche
         search_results_html:
           one: " contenant le terme <strong>'%{search_term}'</strong>"
@@ -94,11 +94,11 @@ fr:
           different_heading_assigned_html: "Vous avez des votes actifs dans une autre section : %{heading_link}"
           change_ballot: "Si vous changez d'avis, vous pouvez supprimer vos votes dans %{check_ballot} et recommencer."
           check_ballot_link: "vérifier mon vote"
-          zero: Vous n'avez voté pour aucune proposition d'investissement dans ce groupe.
-          verified_only: "Pour créer une proposition d'investissement %{verify}."
+          zero: Vous n'avez voté aucun projet d'investissement dans ce groupe.
+          verified_only: "Pour créer un projet d'investissement %{verify}."
           verify_account: "vérifiez votre compte"
-          create: "Créer une proposition d'investissement"
-          not_logged_in: "Pour créer une proposition d'investissement, vous devez vous %{sign_in} ou %{sign_up}."
+          create: "Créer un projet d'investissement"
+          not_logged_in: "Pour créer un projet d'investissement, vous devez vous %{sign_in} ou %{sign_up}."
           sign_in: "connecter"
           sign_up: "enregistrer"
           by_feasibility: Par faisabilité
