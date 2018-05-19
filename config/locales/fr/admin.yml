@@ -584,6 +584,17 @@ fr:
         in_evaluation_count: En évaluation
         total_count: Total
         cost: Coût
+      show:
+        description: "Description"
+        email: "Courriel"
+        group: "Groupe"
+        no_description: "Pas de description"
+        no_group: "Pas de groupe"
+    valuator_groups:
+      index:
+        title: "Groupes d'évaluateurs"
+        new: "Créer un groupe d'évaluateurs"
+        name: "Nom"
     poll_officers:
       index:
         title: Assesseurs
