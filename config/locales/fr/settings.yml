@@ -28,7 +28,7 @@ fr:
     org_name: "Nom de l'organisation"
     place_name: "Nom du lieu"
     feature:
-      budgets: Budgets participatifs
+      budgets: Budget participatif
       twitter_login: Se connecter avec Twitter
       facebook_login: Se connecter avec Facebook
       google_login: Se connecter avec Google
