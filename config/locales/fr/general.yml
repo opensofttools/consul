@@ -208,7 +208,7 @@ fr:
       open_data_title: Données ouvertes
       open_source: logiciel libre
       open_source_url: http://www.gnu.org/licenses/agpl-3.0.html
-      participation_text: Modelez la ville de Madrid dans laquelle vous souhaitez vivre
+      participation_text: Modelez la ville dans laquelle vous souhaitez vivre.
       participation_title: Participation
       privacy: Vie privée
       transparency_text: Trouver tout à propos de la mairie de Madrid
@@ -644,7 +644,7 @@ fr:
         unfeasible: Irréalisable
       start_spending_proposal: Créer une proposition d'investissement
     new:
-      more_info: Comment le budget participatif marche ?
+      more_info: Comment marche le budget participatif ?
       recommendation_one: Faire référence à une action budgétaire est obligatoire pour la proposition.
       recommendation_three: N'hésitez pas à détailler votre proposition pour que l'équipe d'analyse la comprenne
       recommendation_two: Toute proposition ou commentaire qui appelle à une action illégale sera supprimée.
