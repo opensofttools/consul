@@ -935,7 +935,7 @@ fr:
           valuating: Sous évaluation
           valuation_finished: Évaluation terminée
           all: Tous
-        title: Propositions d'investissement pour la budgétisation participative
+        title: Projets d'investissement du budget participatif
         assigned_admin: Administrateur affecté
         no_admin_assigned: Aucun administrateur affecté
         no_valuators_assigned: Aucun évaluateur affecté
@@ -1052,7 +1052,7 @@ fr:
           visits: Visites
           votes: Total des votes
         spending_proposals_title: Propositions d'investissement
-        budgets_title: Budgets participatifs
+        budgets_title: Budget participatif
         visits_title: Visites
         direct_messages: Messages privés
         proposal_notifications: Notifications des propositions
