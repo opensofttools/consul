@@ -2,11 +2,13 @@ ar:
   comments:
     orders:
       newest: الأحدث أولاً
+      most_commented: الأكثر تعليقات
     select_order: فرز حسب
     show:
       return_to_commentable: 'العودة إلى '
   comments_helper:
     comment_button: نشر التعليق
+    comment_link: التعليق
     comments_title: تعليقات
     reply_button: نشر الرد
     reply_link: الرد
