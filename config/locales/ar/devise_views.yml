@@ -4,3 +4,7 @@ ar:
       new:
         email_label: البريد الإلكتروني
         submit: إعادة إرسال التعليمات
+    menu:
+      login_items:
+        login: تسجيل الدخول
+        logout: تسجيل الخروج
