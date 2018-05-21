@@ -1,0 +1,23 @@
+ar:
+  comments:
+    orders:
+      newest: الأحدث أولاً
+    select_order: فرز حسب
+    show:
+      return_to_commentable: 'العودة إلى '
+  comments_helper:
+    comment_button: نشر التعليق
+    comments_title: تعليقات
+    reply_button: نشر الرد
+    reply_link: الرد
+  debates:
+    debate:
+      comments:
+        zero: لا توجد تعليقات
+    index:
+      orders:
+        created_at: أحدث
+      search_form:
+        button: بحث
+        title: بحث
+      select_order: ترتيب حسب
