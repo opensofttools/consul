@@ -16,6 +16,15 @@ ar:
     debate:
       comments:
         zero: لا توجد تعليقات
+        zero: "%{count} تعليق"
+        one: تعليق واحد
+        two: "%{count} تعليقات"
+        few: "%{count} تعليقات"
+        many: "%{count} تعليقات"
+        other: "%{count} تعليقات"
+    edit:
+      form:
+        submit_button: حفظ التغييرات
     index:
       orders:
         created_at: أحدث
